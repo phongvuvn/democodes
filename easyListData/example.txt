@@ -1,1 +1,1 @@
-m.dantri.com.vn##div.mheader:nth-child(2) > a.mn.video:nth-child(2)
+m.dantri.com.vn
