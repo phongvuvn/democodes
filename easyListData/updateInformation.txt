@@ -1,1 +1,14 @@
-{\"countrycode\":[0,21,32,46,51],\"version\":[10,20,30,40,50],\"url\":[\"https:\/\/docs.swift.org\/swift-book\/LanguageGuide\/ErrorHandling.html\",\"https:\/\/docs.swift.org\/swift-book\/LanguageGuide\/ErrorHandling.html\",\"https:\/\/docs.swift.org\/swift-book\/LanguageGuide\/ErrorHandling.html\",\"https:\/\/docs.swift.org\/swift-book\/LanguageGuide\/ErrorHandling.html\",\"\/https:\/\/docs.swift.org\/swift-book\/LanguageGuide\/ErrorHandling.html\"]}
+[
+  {
+    "filterId": 1,
+    "name": "easylist",
+    "link": "https://filters.adtidy.org/windows/filters/1.txt",
+    "countryCode": ""
+  },
+  {
+    "filterId": 1,
+    "name": "vietnam",
+    "link": "https://filters.adtidy.org/windows/filters/1.txt",
+    "countryCode": "VN"
+  }
+]
