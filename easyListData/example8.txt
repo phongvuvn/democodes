@@ -1,0 +1,14 @@
+[
+  {
+    "filterId": "1",
+    "name": "easylist",
+    "link": "https://filters.adtidy.org/windows/filters/1.txt",
+    "countryCode": ""
+  },
+  {
+    "filterId": "1",
+    "name": "vietnam",
+    "link": "https://filters.adtidy.org/windows/filters/1.txt",
+    "countryCode": "VN"
+  }
+]
